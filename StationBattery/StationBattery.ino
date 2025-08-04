@@ -9,7 +9,7 @@ void setup()
     M5.Display.setTextDatum(middle_center);
     M5.Display.setTextColor(TFT_BLACK);
     M5.Display.setTextFont(&fonts::FreeSansOblique12pt7b);
-    M5.Display.setTextSize(2);
+    M5.Display.setTextSize(1);
 }
 
 void loop()
